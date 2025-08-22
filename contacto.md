@@ -6,8 +6,8 @@ title: Contacto
 
 # Contacto
 
-- **Email**: <seu.email@exemplo.com>
-- **Redes**: [Instagram](#) · [Bluesky](#) · [LinkedIn](#)
+- **Email**: <robsonsiebel@gmail.com>
+- **Redes**: Não, obrigado
 - **Newsletter**: (link para subscrição)
 
 > Dica: Prefere um formulário? Pode usar serviços como Formspree ou Getform e colar o embed aqui.
