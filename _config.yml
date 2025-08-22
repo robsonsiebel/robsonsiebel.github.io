@@ -1,0 +1,14 @@
+# --- GitHub Pages / Jekyll config ---
+# Edite os campos abaixo para o seu site.
+title: Seu Nome
+description: Portefólio de escritor — contos, livros e novidades.
+theme: jekyll-theme-minimal
+lang: pt-PT
+# Quando apontar um domínio próprio, preencha (opcional):
+# url: "https://seudominio.com"
+# baseurl: ""  # deixe vazio para site na raiz
+
+# Opções úteis
+markdown: kramdown
+kramdown:
+  input: GFM
