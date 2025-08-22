@@ -10,7 +10,7 @@ Natural de Capinzal, uma cidade pequena no sul do Brasil, encontrou uma interse�
 
 
 ## Destaques
-- **Novo lançamento**: * [New Wenders by Night: Chronicles of a Vampire Taxi Driver](https://www.amazon.com/New-Wenders-Night-Chronicles-Vampire-ebook/dp/B0DJKZDL8Y)* (2024), publicado pela Brodom Publishing.
+- **Novo lançamento**: [New Wenders by Night: Chronicles of a Vampire Taxi Driver](https://www.amazon.com/New-Wenders-Night-Chronicles-Vampire-ebook/dp/B0DJKZDL8Y) (2024), publicado pela Brodom Publishing.
 - **Conto em destaque**: *Ventos Açorianos* — leia gratuitamente na [Revista Somnium 127](https://somnium.clfc.com.br/wp-content/uploads/edicoes/Somnium127.pdf).
 
 > Quer receber bastidores, prévias e novidades? Assine a newsletter (substitua este link): [Newsletter](#).
