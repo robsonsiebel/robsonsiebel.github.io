@@ -2,7 +2,7 @@
 layout: default
 title: Livros
 ---
-[Início](index.md) · [Sobre](sobre.md) · [Contos](contos.md) · [Contacto](contacto.md)
+[Início](index.md) · [Sobre](sobre.md) · [Contos](contos.md) · [Videojogos](videojogos.md) · [Contacto](contacto.md)
 
 # Livros
 
