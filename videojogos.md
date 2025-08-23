@@ -2,13 +2,15 @@
 layout: default
 title: Videojogos
 ---
-[Início](index.md) · [Sobre](sobre.md) · [Livros](livros.md) · [Videojogos](videojogos.md) · [Contacto](contacto.md)
+[Início](index.md) · [Sobre](sobre.md) · [Livros](livros.md) · [Contos](contos.md) · [Contacto](contacto.md)
 
 # Videojogos
 
-- **Título do Conto** — 1–2 linhas de sinopse.  
-  Leia: [na web](#) ou descarregue [PDF](#).
-- **Título do Conto 2** — 1–2 linhas de sinopse.  
+- **Blackout: The Darkest Night** — You have been part of something terrible, something so unspeakable that caused you to blackout and forget all recent events. Now you have the choice of pursuing this dark truth or trying to bury it in the past.
+Maybe it’s not too late to turn back now.  
+Disponível: [Steam]([#](https://store.steampowered.com/app/875400/Blackout_The_Darkest_Night/)) [Itch.io]([#](https://minichimera.itch.io/blackout)) [Kindle](https://www.amazon.com/dp/B08BSRRHCD).
+  
+- **Sheep Dreams Are Made of This** — 1–2 linhas de sinopse.  
   Leia: [na web](#) ou descarregue [PDF](#).
 
 <!--
