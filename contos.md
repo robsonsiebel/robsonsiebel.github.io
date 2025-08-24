@@ -2,7 +2,7 @@
 layout: default
 title: Contos
 ---
-[Início](index.md) · [Sobre](sobre.md) · [Livros](livros.md) · [Videojogos](videojogos.md) · [Contacto](contacto.md)
+[Início](index.md) · [Livros](livros.md) · [Contos](contos.md) · [Videojogos](videojogos.md) · [Sobre](sobre.md) · [Contacto](contacto.md)
 
 # Contos
 
