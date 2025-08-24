@@ -2,7 +2,7 @@
 layout: default
 title: Sobre
 ---
-[Início](index.md) · [Livros](livros.md) · [Contos](contos.md) · [Videojogos](videojogos.md) · [Contacto](contacto.md)
+[Início](index.md) · [Livros](livros.md) · [Contos](contos.md) · [Videojogos](videojogos.md) · [Sobre](sobre.md) · [Contacto](contacto.md)
 
 # Sobre mim
 <!-- Bio curta (3–5 linhas). Foque o género, temas e obras principais. -->
