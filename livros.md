@@ -11,7 +11,7 @@ title: Livros
      alt='Capa de "Meu Livro"'
      style="width:220px; height:auto; border-radius:10px;">
 
-**Género**: fantasia urbana · **Páginas**: 167 · **Idioma**: Inglês  
+**Editora**: Brodom Publishing · **Género**: Fantasia Urbana · **Páginas**: 167 · **Idioma**: Inglês  
 **Sinopse**: It's 1992 in New Wenders, southern USA, a place that feels eerily alive and hides more than its tainted history. Alex, a vampire with a thirst for more than just blood, drives his taxi through sultry nights while the rain sweeps away the last traces of life into the cold Rouge River or the murky bayou.
 
 **Comprar**: [Amazon](https://www.amazon.com/New-Wenders-Night-Chronicles-Vampire-ebook/dp/B0DJKZDL8Y) (Físico ou eBook)
