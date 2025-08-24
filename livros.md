@@ -13,5 +13,9 @@ title: Livros
 - **Trecho**: insira 5–10 linhas marcantes ou link para [amostra em PDF](#).
 - **Comprar**: [Amazon](https://www.amazon.com/New-Wenders-Night-Chronicles-Vampire-ebook/dp/B0DJKZDL8Y) (Físico ou eBook)
 
+<img src="/assets/img/new_wenders_3d.jpg"
+     alt='Capa de "Meu Livro"'
+     style="width:220px; height:auto; border-radius:10px;">
+
 ---
 
