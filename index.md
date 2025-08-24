@@ -12,8 +12,9 @@ title: Início
 - Em modo offline.
 
 ## Destaques
-- **Novo lançamento**: [New Wenders by Night: Chronicles of a Vampire Taxi Driver](https://www.amazon.com/New-Wenders-Night-Chronicles-Vampire-ebook/dp/B0DJKZDL8Y) (2024), publicado pela Brodom Publishing.
-- **Conto em destaque**: *Ventos Açorianos* — leia gratuitamente na [Revista Somnium 127](https://somnium.clfc.com.br/wp-content/uploads/edicoes/Somnium127.pdf).
+- **Pré-venda**: *Os Melhores Contos da Fábrica do Terror – Vol. 3* - Compre na [Fábrica do Terror](https://www.fabrica-do-terror.com/product/oa-melhores-contos-da-fabrica-do-terror-vol-iii/)
+- **Novo Lançamento**: *Ventos Açorianos* — leia gratuitamente na [Revista Somnium 127](https://somnium.clfc.com.br/wp-content/uploads/edicoes/Somnium127.pdf).
+- **Livro em destaque**: [New Wenders by Night: Chronicles of a Vampire Taxi Driver](https://www.amazon.com/New-Wenders-Night-Chronicles-Vampire-ebook/dp/B0DJKZDL8Y) (2024), publicado pela Brodom Publishing.
 
 > Quer receber bastidores, prévias e novidades? Assine a newsletter (substitua este link): [Newsletter](#).
 
