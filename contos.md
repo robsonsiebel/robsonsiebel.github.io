@@ -6,10 +6,18 @@ title: Contos
 
 # Contos
 
+- **Ventos Açorianos** — Anoitece em Desterro. Sob a chuva fina e fria carregada pelo vento sul, nada é o que parece na Ilha da Magia.  
+  Leia: [Revista Somnium 127](https://somnium.clfc.com.br/wp-content/uploads/edicoes/Somnium127.pdf).
 - **Título do Conto** — 1–2 linhas de sinopse.  
   Leia: [na web](#) ou descarregue [PDF](#).
 - **Título do Conto 2** — 1–2 linhas de sinopse.  
   Leia: [na web](#) ou descarregue [PDF](#).
+
+## Crónicas
+
+- **Título do Conto 2** — 1–2 linhas de sinopse.  
+  Leia: [na web](#) ou descarregue [PDF](#).
+
 
 <!--
 Sugestão de organização:
