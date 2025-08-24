@@ -12,6 +12,9 @@ title: Contos
   **Ler:** [Revista Palavrar](https://palavrar.oprazerdaescrita.com/a-nevoa-que-nos-rodeia/).
 - **A Morte do Autor** — Tudo bem, não há necessidade de se levantarem. Já me acostumei ao silêncio.  
   **Ler:** [Fábrica do Terror](https://www.fabrica-do-terror.com/contos/a-morte-do-autor/).
+- **Texto do Almirante Raul Lacerda no fascículo #37 da revista Destinos Paradisíacos** — Ler para crer.  
+  **Ler:** [Revista Pacto #2](https://www.fabrica-do-terror.com/contos/a-morte-do-autor/](https://www.instagram.com/revistapacto/).
+  
 
 ## Crónicas
 
