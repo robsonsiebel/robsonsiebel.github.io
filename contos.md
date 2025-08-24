@@ -4,7 +4,7 @@ title: Contos
 ---
 [Início](index.md) · [Livros](livros.md) · [Contos](contos.md) · [Videojogos](videojogos.md) · [Sobre](sobre.md) · [Contacto](contacto.md)
 
-# Contos
+## Contos
 
 - **Ventos Açorianos** — Anoitece em Desterro. Sob a chuva fina e fria carregada pelo vento sul, nada é o que parece na Ilha da Magia.  
   Leia: [Revista Somnium 127](https://somnium.clfc.com.br/wp-content/uploads/edicoes/Somnium127.pdf).
@@ -15,8 +15,8 @@ title: Contos
 
 ## Crónicas
 
-- **Título do Conto 2** — 1–2 linhas de sinopse.  
-  Leia: [na web](#) ou descarregue [PDF](#).
+- **Who Lives, Who Dies, Who Tells Your Story** — In the heart of New York City there is a small cemetery. There lies a fictional character.   
+  Leia: [The Brodom Vault](https://mailchi.mp/39f1fc5f0d94/the-brodom-vault-35).
 
 
 <!--
