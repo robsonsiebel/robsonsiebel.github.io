@@ -22,7 +22,7 @@ Disponível: [Itch.io](https://minichimera.itch.io/sheep-dreams-are-made-of-this
 **Taxi by Night** — A vampire drives a taxi in the city of New Wenders. As the night grows quiet, the ignorant soul in the backseat becomes more likely to become a victim. Or maybe not yet.
 Disponível: [Itch.io]([https://minichimera.itch.io/sheep-dreams-are-made-of-this](https://minichimera.itch.io/taxi-by-night)).
 
-<img src="/assets/img/taxibynight.jpg"
+<img src="/assets/img/taxibynight.png"
      style="width:220px; height:auto; border-radius:10px;">
 <!--
 Sugestão de organização:
