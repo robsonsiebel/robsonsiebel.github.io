@@ -10,10 +10,12 @@ title: Contos
   **Ler:** [Revista Somnium, Edição 127 (Julho 2025)](https://somnium.clfc.com.br/wp-content/uploads/edicoes/Somnium127.pdf).
 - **Texto do Almirante Raul Lacerda no fascículo #37 da revista Destinos Paradisíacos** — Ler para crer.  
   **Ler:** [Revista Pacto, Edição 2 (Abril 2025)](https://www.instagram.com/revistapacto/).
+- **A Morte do Autor** — Tudo bem, não há necessidade de se levantarem. Já me acostumei ao silêncio.  
+  **Ler:** [Fábrica do Terror (Fevereiro 2025)](https://www.fabrica-do-terror.com/contos/a-morte-do-autor/).
 - **A Névoa que nos Rodeia** — Hilda procura pelo irmão desaparecido ao passo que a névoa envolve a aldeia de Nova Baviera.  
   **Ler:** [Revista Palavrar, Edição 6 (Outubro 2024)](https://palavrar.oprazerdaescrita.com/a-nevoa-que-nos-rodeia/).
-- **A Morte do Autor** — Tudo bem, não há necessidade de se levantarem. Já me acostumei ao silêncio.  
-  **Ler:** [Fábrica do Terror](https://www.fabrica-do-terror.com/contos/a-morte-do-autor/).
+- **A Degoladora** — Uma ameaça paira sobre Paris, e nenhuma baguete está a salvo.  
+  **Ler:** [Revista SACA, Edição 2 (Março 2024)](https://www.fabrica-do-terror.com/contos/a-morte-do-autor/).
 
   
 
