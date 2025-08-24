@@ -11,7 +11,7 @@ title: Contos
 - **Texto do Almirante Raul Lacerda no fascículo #37 da revista Destinos Paradisíacos** — Ler para crer.  
   **Ler:** [Revista Pacto, Edição 2 (Abril 2025)](https://www.instagram.com/revistapacto/).
 - **A Névoa que nos Rodeia** — Hilda procura pelo irmão desaparecido ao passo que a névoa envolve a aldeia de Nova Baviera.  
-- **Ler:** [Revista Palavrar, Edição 6 (Outubro 2024)](https://palavrar.oprazerdaescrita.com/a-nevoa-que-nos-rodeia/).
+  **Ler:** [Revista Palavrar, Edição 6 (Outubro 2024)](https://palavrar.oprazerdaescrita.com/a-nevoa-que-nos-rodeia/).
 - **A Morte do Autor** — Tudo bem, não há necessidade de se levantarem. Já me acostumei ao silêncio.  
   **Ler:** [Fábrica do Terror](https://www.fabrica-do-terror.com/contos/a-morte-do-autor/).
 
