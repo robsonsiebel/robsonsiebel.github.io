@@ -15,11 +15,3 @@ title: Livros
 
 ---
 
-## Título do Livro 2 (Ano)
-**Género**: mistério · **Páginas**: 220  
-**Sinopse breve**: (substitua pelo seu texto).
-
-- **Trecho**: [leia uma amostra](#)
-- **Comprar**: [Loja A](#) · [Loja B](#)
-
-> Dica: para cada livro, mantenha a mesma estrutura (género, sinopse, trecho, compra).
