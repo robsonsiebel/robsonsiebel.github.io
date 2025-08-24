@@ -7,16 +7,16 @@ title: Contos
 ## Contos
 
 - **Ventos Açorianos** — Anoitece em Desterro. Sob a chuva fina e fria carregada pelo vento sul, nada é o que parece na Ilha da Magia.  
-  Leia: [Revista Somnium 127](https://somnium.clfc.com.br/wp-content/uploads/edicoes/Somnium127.pdf).
+  **Ler:** [Revista Somnium 127](https://somnium.clfc.com.br/wp-content/uploads/edicoes/Somnium127.pdf).
 - **A Névoa que nos Rodeia** — Hilda procura pelo irmão desaparecido ao passo que a névoa envolve a aldeia de Nova Baviera.
-  Leia: [Revista Palavrar](https://palavrar.oprazerdaescrita.com/a-nevoa-que-nos-rodeia/).
+  **Ler:** [Revista Palavrar](https://palavrar.oprazerdaescrita.com/a-nevoa-que-nos-rodeia/).
 - **A Morte do Autor** — Tudo bem, não há necessidade de se levantarem. Já me acostumei ao silêncio.  
-  Leia: [Fábrica do Terror](https://www.fabrica-do-terror.com/contos/a-morte-do-autor/).
+  **Ler:** [Fábrica do Terror](https://www.fabrica-do-terror.com/contos/a-morte-do-autor/).
 
 ## Crónicas
 
 - **Who Lives, Who Dies, Who Tells Your Story** — In the heart of New York City there is a small cemetery. There lies a fictional character.   
-  Leia: [The Brodom Vault](https://mailchi.mp/39f1fc5f0d94/the-brodom-vault-35).
+  **Ler:** [The Brodom Vault](https://mailchi.mp/39f1fc5f0d94/the-brodom-vault-35).
 
 
 <!--
