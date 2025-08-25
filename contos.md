@@ -27,7 +27,7 @@ title: Contos
 ## Crónicas
 
 - **Who Lives, Who Dies, Who Tells Your Story** — In the heart of New York City there is a small cemetery. There lies a fictional character.   
-    **Ler:** [The Brodom Vault](https://mailchi.mp/39f1fc5f0d94/the-brodom-vault-35).
+    **Ler:** [The Brodom Vault (Maio 2024)](https://mailchi.mp/39f1fc5f0d94/the-brodom-vault-35).
 
 
 <!--
