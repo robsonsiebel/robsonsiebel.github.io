@@ -15,7 +15,11 @@ title: Contos
 - **A Névoa que nos Rodeia** — Hilda procura pelo irmão desaparecido ao passo que a névoa envolve a aldeia de Nova Baviera.  
    **Ler:** [Revista Palavrar, Edição 6 (Outubro 2024)](https://palavrar.oprazerdaescrita.com/a-nevoa-que-nos-rodeia/).
 - **Um Belo Arranjo de Floresa** — "Tira o dedo da boca." A voz da mãe foi engolida pelo som do televisor.  
-   **Ler:** [Revista SACA, Edição 2 (Março 2024)](https://www.fabrica-do-terror.com/contos/um-belo-arranjo-de-flores/).
+   **Ler:** [Fábrica do Terror (Novembro 2024)](https://www.fabrica-do-terror.com/contos/um-belo-arranjo-de-flores/).
+- **Sangue Frio** — A rainha está sozinha, a sua respiração sibilante ecoa pela sala mal iluminada.  
+   **Ler:** [Fábrica do Terror (Setembro 2024)](https://www.fabrica-do-terror.com/contos/sangue-frio/).
+- **A Estante Oblíqua** — _Foi assim que a vi, como que pendendo sobre um abismo._  
+   **Ler:** [Fábrica do Terror (Julho 2024)](https://www.fabrica-do-terror.com/contos/a-estante-obliqua/).
 - **A Degoladora** — Uma ameaça paira sobre Paris, e nenhuma baguete está a salvo.  
    **Ler:** [Revista SACA, Edição 2 (Março 2024)](https://www.fabrica-do-terror.com/contos/a-morte-do-autor/).
   
