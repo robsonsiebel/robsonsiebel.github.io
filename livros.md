@@ -17,7 +17,7 @@ title: Livros
 
 **Comprar**: [Amazon](https://www.amazon.com/New-Wenders-Night-Chronicles-Vampire-ebook/dp/B0DJKZDL8Y) (Físico ou eBook)
 
-_"O mundo que Robson Siebel constrói com Nova Orleães — ou New Wenders — como pano de fundo é muito mais do que simplesmente «interessante». É misterioso, sobrenatural e tão, tão humano."_
+_"O mundo que Robson Siebel constrói com Nova Orleães — ou New Wenders — como pano de fundo é muito mais do que simplesmente «interessante». É misterioso, sobrenatural e tão, tão humano."_  
      - Crítica da Patrícia Sá na [Fábrica do Terror](https://www.fabrica-do-terror.com/critica-a-new-wenders-by-night-chronicles-of-a-vampire-taxi-driver-de-robson-siebel/)
 ---
 
