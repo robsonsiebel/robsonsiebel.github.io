@@ -9,3 +9,6 @@ title: Sobre
 Robson Siebel é natural de Capinzal, uma cidade pequena no sul do Brasil. Encontrou uma interseção na carreira de programador e na paixão pela escrita criando jogos narrativos como [Blackout: The Darkest Night](https://store.steampowered.com/app/875400/Blackout_The_Darkest_Night/), também publicado como livro-jogo. Em 2024 lançou seu primeiro livro [New Wenders by Night: Chronicles of a Vampire Taxi Driver](https://www.amazon.com/New-Wenders-Night-Chronicles-Vampire-ebook/dp/B0DJKZDL8Y). 
 
 Atualmente, reside em Lisboa, onde trabalha com jogos digitais e escreve contos que vagueiam pela ficção especulativa e pelo realismo mágico. Além de contos e romances, também escreve textos para a sua newsletter e aparece ocasionalmente na [Brodom Vault](https://mailchi.mp/brodompublishing/brodomvaultarchive). 
+
+<img src="/assets/img/booksaga.jpg"
+     style="width:400px; height:auto; border-radius:10px;">
