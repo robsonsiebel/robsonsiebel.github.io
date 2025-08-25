@@ -5,7 +5,9 @@ title: Início
 <!-- Substitua os textos abaixo pelo seu conteúdo. -->
 [Início](index.md) · [Livros](livros.md) · [Contos](contos.md) · [Videojogos](videojogos.md) · [Sobre](sobre.md) · [Contacto](contacto.md)
 
-
+<img src="/assets/img/booksaga.jpg"
+     style="width:400px; height:auto; border-radius:10px;">
+     
 ## Atualmente
 - Em ressaca literária após terminar de escrever o segundo livro da série New Wenders.
 - Ainda a pensar em Infinite Jest, no consumo de media, e como tudo que David Foster Wallace dizia nas suas entrevistas está ainda mais relevante.
