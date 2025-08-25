@@ -14,9 +14,10 @@ title: Contos
   **Ler:** [Fábrica do Terror (Fevereiro 2025)](https://www.fabrica-do-terror.com/contos/a-morte-do-autor/).
 - **A Névoa que nos Rodeia** — Hilda procura pelo irmão desaparecido ao passo que a névoa envolve a aldeia de Nova Baviera.  
   **Ler:** [Revista Palavrar, Edição 6 (Outubro 2024)](https://palavrar.oprazerdaescrita.com/a-nevoa-que-nos-rodeia/).
+- **Um Belo Arranjo de Floresa** — "Tira o dedo da boca." A voz da mãe foi engolida pelo som do televisor.  
+  **Ler:** [Revista SACA, Edição 2 (Março 2024)](https://www.fabrica-do-terror.com/contos/um-belo-arranjo-de-flores/).
 - **A Degoladora** — Uma ameaça paira sobre Paris, e nenhuma baguete está a salvo.  
   **Ler:** [Revista SACA, Edição 2 (Março 2024)](https://www.fabrica-do-terror.com/contos/a-morte-do-autor/).
-
   
 
 ## Crónicas
