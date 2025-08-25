@@ -27,10 +27,10 @@ Maybe it’s not too late to turn back now.
 
 # Micro Interactive Fiction
 
-**Will** — If you had to write a will today, who would you give your stuff to? Would they even care? Maybe it's better not to think about it, like you always did. 
+**Will** — If you had to write a will today, who would you give your stuff to? Would they even care? Maybe it's better not to think about it, like you always did.  
 **Disponível:** [Itch.io](https://minichimera.itch.io/will).
 
-**Static** — Someone forgot the TV on. 
+**Static** — Someone forgot the TV on.  
 **Disponível:** [Itch.io](https://minichimera.itch.io/static-micro-horror).
 
 
