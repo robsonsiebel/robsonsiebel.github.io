@@ -15,7 +15,7 @@ title: Início
 - **Novo Lançamento**: *Ventos Açorianos* — leia gratuitamente na [Revista Somnium 127](https://somnium.clfc.com.br/wp-content/uploads/edicoes/Somnium127.pdf).
 - **Livro em destaque**: [New Wenders by Night: Chronicles of a Vampire Taxi Driver](https://www.amazon.com/New-Wenders-Night-Chronicles-Vampire-ebook/dp/B0DJKZDL8Y) (2024), publicado pela Brodom Publishing.
 
-> Quer receber bastidores, prévias e novidades? Assine a newsletter (substitua este link): [Newsletter](#).
+> Quer receber bastidores, prévias e novidades? Assine a newsletter: [Newsletter](https://robsonsiebel.substack.com/subscribe?params=%5Bobject%20Object%5D).
 
 ---
 ### Para editoras e imprensa
