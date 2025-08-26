@@ -21,13 +21,13 @@ title: Contacto
     frameborder="0" scrolling="no"></iframe>
 
   <!-- Fallback (aparece se a iframe não carregar, p.ex. com adblock) -->
-  <div id="ss-alt" style="display:none; margin-top:.75rem;">
-    <a href="https://robsonsiebel.substack.com/subscribe"
-       class="button" target="_blank" rel="noopener"
-       style="display:inline-block;padding:.6rem 1rem;border:1px solid #222;border-radius:10px;text-decoration:none">
-      Subscrever no Substack
-    </a>
-  </div>
+<div id="ss-alt" style="display:none; margin-top:.75rem;">
+  Se o formulário não aparecer, 
+  <a href="https://robsonsiebel.substack.com/subscribe" target="_blank" rel="noopener">
+    subscreva aqui
+  </a>.
+</div>
+
 
   <noscript>
     <p style="margin-top:.75rem">
