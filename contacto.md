@@ -10,6 +10,11 @@ title: Contacto
 - **Redes**: Não, obrigado
 - **Newsletter**: (link para subscrição)
 
-<iframe src="https://robsonsiebel.substack.com/embed" width="480" height="320" style="border:1px solid #EEE; background:white;" frameborder="0" scrolling="no"></iframe>
+<div class="newsletter-embed" style="max-width:480px">
+  <iframe src="https://robsonsiebel.substack.com/embed"
+          loading="lazy"
+          style="width:100%; height:320px; border:1px solid #EEE; background:#fff;"
+          frameborder="0" scrolling="no"></iframe>
+</div>
 
 > Dica: Prefere um formulário? Pode usar serviços como Formspree ou Getform e colar o embed aqui.
