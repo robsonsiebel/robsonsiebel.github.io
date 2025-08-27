@@ -24,7 +24,7 @@ title: Contacto
 <div id="ss-alt" style="display:none; margin-top:.75rem;">
   <a href="https://robsonsiebel.substack.com/subscribe" target="_blank" rel="noopener">
     Subscreva aqui
-  </a>.
+  </a>
 </div>
 
 
