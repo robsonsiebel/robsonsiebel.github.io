@@ -35,7 +35,7 @@ title: Contos
   **Ler:** [The Brodom Vault (Setembro 2024)](https://mailchi.mp/brodompublishing/the-brodom-vault-52).
 
 - **Ravana** — For centuries and centuries, I’ve roamed.   
-  **Ler:** [The Brodom Vault (Setembro 2024)](https://mailchi.mp/brodompublishing/the-brodom-vault-52).
+  **Ler:** [The Brodom Vault (Agosto 2023)](https://mailchi.mp/brodompublishing/the-brodom-vault-52).
   
 
 
