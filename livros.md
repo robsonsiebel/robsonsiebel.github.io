@@ -19,6 +19,7 @@ title: Livros
 
 _"O mundo que Robson Siebel constrói com Nova Orleães — ou New Wenders — como pano de fundo é muito mais do que simplesmente «interessante». É misterioso, sobrenatural e tão, tão humano."_  
      - Crítica da Patrícia Sá na [Fábrica do Terror](https://www.fabrica-do-terror.com/critica-a-new-wenders-by-night-chronicles-of-a-vampire-taxi-driver-de-robson-siebel/)  
+
 ---
 
 ## A Bag Full of Tapes
