@@ -21,3 +21,8 @@ _"O mundo que Robson Siebel constrói com Nova Orleães — ou New Wenders — c
      - Crítica da Patrícia Sá na [Fábrica do Terror](https://www.fabrica-do-terror.com/critica-a-new-wenders-by-night-chronicles-of-a-vampire-taxi-driver-de-robson-siebel/)  
 ---
 
+## A Bag Full of Tapes
+
+A short story prequel to New Wender by Night: Chronicles of a Vampire Taxi Driver
+**Ler:** [The Brodom Vault (Novembro 2024)](https://mailchi.mp/brodompublishing/the-brodom-vault-57)
+
