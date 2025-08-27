@@ -24,6 +24,6 @@ _"O mundo que Robson Siebel constrói com Nova Orleães — ou New Wenders — c
 
 ## A Bag Full of Tapes
 
-A short story prequel to New Wender by Night: Chronicles of a Vampire Taxi Driver
+A short story prequel to New Wender by Night: Chronicles of a Vampire Taxi Driver  
 **Ler:** [The Brodom Vault (Novembro 2024)](https://mailchi.mp/brodompublishing/the-brodom-vault-57)
 
