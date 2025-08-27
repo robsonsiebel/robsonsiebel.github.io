@@ -22,6 +22,8 @@ title: Contos
   **Ler:** [Fábrica do Terror (Julho 2024)](https://www.fabrica-do-terror.com/contos/a-estante-obliqua/).
 - **A Degoladora** — Uma ameaça paira sobre Paris, e nenhuma baguete está a salvo.  
   **Ler:** [Revista SACA, Edição 2 (Março 2024)](https://www.fabrica-do-terror.com/contos/a-morte-do-autor/).
+- **Fading Into Existance** — Every once in a while, I tend to forget things.  
+  **Ler:** [The Brodom Vault (Março 2024)](https://mailchi.mp/bcb7a397fafa/the-brodom-vault-25).
   
 
 ## Crónicas
