@@ -23,7 +23,7 @@ title: Contacto
   <!-- Fallback (aparece se a iframe não carregar, p.ex. com adblock) -->
 <div id="ss-alt" style="display:none; margin-top:.75rem;">
   <a href="https://robsonsiebel.substack.com/subscribe" target="_blank" rel="noopener">
-    subscreva aqui
+    Subscreva aqui
   </a>.
 </div>
 
