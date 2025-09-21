@@ -11,7 +11,7 @@ title: Início
 - Em modo offline.
 
 ## Destaques
-- **Newsletter**: *O Jogo Infinito* - De que serve um escritor se não for para destruir a literatura? - [Leia em Ócios do Ofício](https://robsonsiebel.substack.com/p/o-jogo-infinito)
+- **Newsletter**: *O Jogo Infinito* - De que serve um escritor se não for para destruir a literatura? - Leia em [Ócios do Ofício](https://robsonsiebel.substack.com/p/o-jogo-infinito)
  - **Novo Lançamento**: *Os Melhores Contos da Fábrica do Terror – Vol. 3* — Compre na [Fábrica do Terror](https://www.fabrica-do-terror.com/product/oa-melhores-contos-da-fabrica-do-terror-vol-iii/)
 - **Conto em destaque**: *Ventos Açorianos* — leia gratuitamente na [Revista Somnium 127](https://somnium.clfc.com.br/wp-content/uploads/edicoes/Somnium127.pdf).
 - **Livro em destaque**: [New Wenders by Night: Chronicles of a Vampire Taxi Driver](https://www.amazon.com/New-Wenders-Night-Chronicles-Vampire-ebook/dp/B0DJKZDL8Y) (2024), publicado pela Brodom Publishing.
