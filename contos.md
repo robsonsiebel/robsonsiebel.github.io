@@ -5,7 +5,7 @@ title: Contos
 [Início](index.md) · [Livros](livros.md) · [Contos](contos.md) · [Videojogos](videojogos.md) · [Sobre](sobre.md) · [Contacto](contacto.md)
 
 ## Contos
-- **(Âmago)** — Paira, incógnito, sobre a boca aberta; condensa-se à espera do inspirar.
+- **(Âmago)** — Paira, incógnito, sobre a boca aberta; condensa-se à espera do inspirar.  
   **Ler:** [Fábrica do Terror (Dezembro 2025)](https://www.fabrica-do-terror.com/contos/amago/).
 - **Ventos Açorianos** — Anoitece em Desterro. Sob a chuva fina e fria carregada pelo vento sul, nada é o que parece na Ilha da Magia.  
   **Ler:** [Revista Somnium, Edição 127 (Julho 2025)](https://somnium.clfc.com.br/wp-content/uploads/edicoes/Somnium127.pdf).
