@@ -5,7 +5,8 @@ title: Contos
 [Início](index.md) · [Livros](livros.md) · [Contos](contos.md) · [Videojogos](videojogos.md) · [Sobre](sobre.md) · [Contacto](contacto.md)
 
 ## Contos
-
+- **(Âmago)** — Paira, incógnito, sobre a boca aberta; condensa-se à espera do inspirar.
+  **Ler:** [Fábrica do Terror (Dezembro 2025)](https://www.fabrica-do-terror.com/contos/amago/).
 - **Ventos Açorianos** — Anoitece em Desterro. Sob a chuva fina e fria carregada pelo vento sul, nada é o que parece na Ilha da Magia.  
   **Ler:** [Revista Somnium, Edição 127 (Julho 2025)](https://somnium.clfc.com.br/wp-content/uploads/edicoes/Somnium127.pdf).
 - **Texto do Almirante Raul Lacerda no fascículo #37 da revista Destinos Paradisíacos** — Ler para crer.  
@@ -33,6 +34,9 @@ title: Contos
 
 ## Micro Contos
 
+- **Eulogy For The Last Human** — Hikaru didn't receive many customers outside of winter.   
+  **Ler:** [The Brodom Vault (Setembro 2025)](https://mailchi.mp/brodompublishing/anniversary-issue-flash-fiction-extraordinaire-the-brodom-vault-104).
+  
 - **The End of Spring** — Hikaru didn't receive many customers outside of winter.   
   **Ler:** [The Brodom Vault (Setembro 2024)](https://mailchi.mp/brodompublishing/the-brodom-vault-52).
 
