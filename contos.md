@@ -34,7 +34,7 @@ title: Contos
 
 ## Micro Contos
 
-- **Eulogy For The Last Human** — Hikaru didn't receive many customers outside of winter.   
+- **Eulogy For The Last Human** — He died doing what he loved: posting snarky comments on social media.   
   **Ler:** [The Brodom Vault (Setembro 2025)](https://mailchi.mp/brodompublishing/anniversary-issue-flash-fiction-extraordinaire-the-brodom-vault-104).
 - **The End of Spring** — Hikaru didn't receive many customers outside of winter.   
   **Ler:** [The Brodom Vault (Setembro 2024)](https://mailchi.mp/brodompublishing/the-brodom-vault-52).
