@@ -9,8 +9,8 @@ title: Início
 - A pensar no custo que se paga pela conveniência tecnológica.
 
 ## Destaques
-- **Newsletter**: *Contra a Conveniência* - E a favor da convivência - Leia em [Ócios do Ofício](https://robsonsiebel.substack.com/p/contra-a-conveniencia)
-- **Novo Lançamento**: *Os Melhores Contos da Fábrica do Terror – Vol. 3* — Compre na [Fábrica do Terror](https://www.fabrica-do-terror.com/product/oa-melhores-contos-da-fabrica-do-terror-vol-iii/)
+- **Newsletter**: *Espalhador de Cadeiras, O* - Enciclopédia de Ocupações Apócrifas - Leia em [Ócios do Ofício](https://robsonsiebel.substack.com/p/espalhador-de-cadeiras-o)
+- **Novo Lançamento**: *Os Melhores Contos da Fábrica do Terror – Vol. 4* — Compre na [Fábrica do Terror](https://www.fabrica-do-terror.com/product/os-melhores-contos-da-fabrica-do-terror-volume-4/)
 - **Livro em destaque**: [New Wenders by Night: Chronicles of a Vampire Taxi Driver](https://www.amazon.com/New-Wenders-Night-Chronicles-Vampire-ebook/dp/B0DJKZDL8Y) (2024), publicado pela Brodom Publishing.
 
 > Se quer receber uma publicação ocasional, curta e levemente literária, assine a [newsletter](https://robsonsiebel.substack.com/subscribe).
